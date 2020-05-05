@@ -1,2 +1,2 @@
 # gnn
-Graph Neural Network
+Graph Neural Networks
